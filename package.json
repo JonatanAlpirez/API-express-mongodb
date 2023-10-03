@@ -1,0 +1,23 @@
+{
+  "name": "api-express-mongodb",
+  "version": "1.0.0",
+  "description": "APU ussing express and mongoDB, bassed in: https://youtu.be/xRXHQlqA3Ak",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "y"
+  },
+  "author": "JonatanAlpirez",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
